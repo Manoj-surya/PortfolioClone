@@ -140,6 +140,10 @@ img {
   width: 32px;
 }
 
+.name2{
+  width: 60px;
+}
+
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section {
   padding: 2rem 0 4rem;
@@ -612,6 +616,7 @@ img {
   height: 100%;
   width: 100%;
   -webkit-border-radius: 100%;
+  border-radius: 100%;
   clip: rect(0px, 100px, 100px, 50px);
   transform: rotate(250deg);
   border-width: 9px;

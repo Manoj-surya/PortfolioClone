@@ -138,6 +138,10 @@ h1 {
     margin-right: auto;
     margin-left: auto;
 }
+
+.name2{
+    width: 60px;
+}
 @media (min-width: 576px) {
     .container {
         max-width: 540px;
